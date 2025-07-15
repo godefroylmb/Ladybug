@@ -1,0 +1,10 @@
+# Ladybug classification
+
+This project was a course project from ISEP. The goal was to classify ladybugs using a dataset of images. We had access to RGB image and segmented images. Ladybugs had to be classified into 2 species, the principal difficulty was to run our own features extraction to be able to fully explain/control the process.
+
+## Dataset
+The dataset used to train the model is the [ladybug folder](/ladybug/). It contains both RGB images and segmented images.
+The test dataset is available in the [test folder](/test/), it was used to test the model.
+
+## Features extraction
+The features extraction was done using a custom script that extracts various features from the images. Full details of the features extraction process and reasoning can be found in the [features extraction notebook](/features_extraction.ipynb).
