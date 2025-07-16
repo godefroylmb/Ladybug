@@ -1,0 +1,201 @@
+Image_id,Label,shell_brightness,spots_number,spots_brightness
+im-001,0,not dark,5.0,dark
+im-002,0,not dark,6.0,dark
+im-003,1,not dark,16.0,dark
+im-004,1,not dark,18.0,dark
+im-005,1,not dark,17.0,dark
+im-006,0,not dark,6.0,dark
+im-007,0,not dark,3.0,dark
+im-008,1,dark,5.0,not dark
+im-009,1,not dark,12.0,dark
+im-010,1,not dark,17.0,not dark
+im-011,0,not dark,6.0,dark
+im-012,0,not dark,6.0,dark
+im-013,1,not dark,15.0,dark
+im-014,0,not dark,5.0,dark
+im-015,0,not dark,6.0,dark
+im-016,1,not dark,15.0,dark
+im-017,1,not dark,13.0,dark
+im-018,0,not dark,4.0,dark
+im-019,1,dark,7.0,dark
+im-020,0,dark,9.0,dark
+im-021,0,not dark,4.0,dark
+im-022,0,not dark,4.0,dark
+im-023,1,not dark,21.0,dark
+im-024,1,dark,15.0,dark
+im-025,1,dark,6.0,not dark
+im-026,0,not dark,5.0,dark
+im-027,1,not dark,11.0,dark
+im-028,1,not dark,24.0,dark
+im-029,1,dark,5.0,dark
+im-030,0,not dark,6.0,dark
+im-031,0,not dark,4.0,dark
+im-032,0,not dark,4.0,dark
+im-033,0,not dark,6.0,dark
+im-034,1,not dark,19.0,dark
+im-035,0,not dark,5.0,dark
+im-036,1,not dark,21.0,dark
+im-037,1,not dark,10.0,dark
+im-038,1,not dark,15.0,dark
+im-039,1,not dark,16.0,dark
+im-040,1,not dark,2.0,dark
+im-041,0,not dark,6.0,dark
+im-042,0,not dark,6.0,dark
+im-043,1,not dark,15.0,dark
+im-044,1,not dark,18.0,dark
+im-045,1,not dark,15.0,dark
+im-046,0,dark,11.0,dark
+im-047,1,dark,5.0,dark
+im-048,1,dark,24.0,dark
+im-049,1,not dark,14.0,dark
+im-050,1,not dark,19.0,dark
+im-051,1,dark,10.0,dark
+im-052,1,dark,7.0,not dark
+im-053,1,dark,6.0,dark
+im-054,0,dark,9.0,dark
+im-055,1,not dark,16.0,dark
+im-056,1,not dark,13.0,dark
+im-057,0,not dark,4.0,dark
+im-058,1,dark,6.0,dark
+im-059,1,not dark,20.0,dark
+im-060,0,dark,11.0,dark
+im-061,0,dark,12.0,dark
+im-062,1,not dark,15.0,dark
+im-063,0,dark,11.0,dark
+im-064,1,not dark,11.0,dark
+im-065,1,not dark,13.0,dark
+im-066,0,not dark,4.0,dark
+im-067,0,not dark,6.0,dark
+im-068,1,not dark,19.0,dark
+im-069,1,not dark,15.0,dark
+im-070,0,not dark,4.0,dark
+im-071,0,not dark,6.0,dark
+im-072,0,not dark,5.0,dark
+im-073,1,dark,20.0,dark
+im-074,0,not dark,6.0,dark
+im-075,0,not dark,6.0,dark
+im-076,1,dark,21.0,dark
+im-077,0,not dark,4.0,dark
+im-078,1,dark,24.0,dark
+im-079,0,not dark,5.0,dark
+im-080,0,dark,11.0,dark
+im-081,1,dark,23.0,dark
+im-082,1,dark,16.0,dark
+im-083,1,not dark,13.0,dark
+im-084,1,not dark,18.0,dark
+im-085,0,dark,13.0,dark
+im-086,1,not dark,16.0,dark
+im-087,1,not dark,14.0,dark
+im-088,1,dark,7.0,dark
+im-089,1,not dark,15.0,dark
+im-090,1,dark,19.0,dark
+im-091,1,not dark,13.0,dark
+im-092,0,not dark,5.0,dark
+im-093,0,not dark,3.0,dark
+im-094,0,not dark,5.0,dark
+im-095,1,not dark,20.0,dark
+im-096,1,not dark,18.0,dark
+im-097,0,not dark,4.0,dark
+im-098,0,not dark,4.0,dark
+im-099,0,dark,10.0,dark
+im-100,0,not dark,5.0,dark
+im-101,0,not dark,10.0,dark
+im-102,0,not dark,4.0,dark
+im-103,1,not dark,23.0,dark
+im-104,0,not dark,10.0,dark
+im-105,0,not dark,9.0,dark
+im-106,1,dark,5.0,dark
+im-107,0,not dark,6.0,dark
+im-108,1,not dark,17.0,dark
+im-109,0,not dark,4.0,dark
+im-110,0,not dark,4.0,dark
+im-111,1,not dark,16.0,dark
+im-112,0,not dark,4.0,dark
+im-113,0,dark,9.0,dark
+im-114,0,not dark,4.0,dark
+im-115,1,not dark,12.0,dark
+im-116,1,dark,6.0,not dark
+im-117,0,not dark,6.0,dark
+im-118,0,dark,9.0,dark
+im-119,0,not dark,4.0,dark
+im-120,1,dark,4.0,dark
+im-121,1,dark,4.0,dark
+im-122,1,dark,6.0,dark
+im-123,0,dark,13.0,dark
+im-124,0,not dark,4.0,dark
+im-125,0,not dark,4.0,dark
+im-126,1,not dark,15.0,dark
+im-127,0,not dark,4.0,dark
+im-128,1,dark,9.0,not dark
+im-129,0,not dark,6.0,dark
+im-130,0,not dark,5.0,dark
+im-131,1,dark,17.0,dark
+im-132,0,not dark,5.0,dark
+im-133,0,not dark,6.0,dark
+im-134,0,dark,7.0,dark
+im-135,0,not dark,9.0,dark
+im-136,1,not dark,1.0,dark
+im-137,1,not dark,8.0,dark
+im-138,0,not dark,6.0,dark
+im-139,1,dark,20.0,dark
+im-140,0,dark,8.0,dark
+im-141,1,dark,16.0,dark
+im-142,0,not dark,4.0,dark
+im-143,1,not dark,13.0,dark
+im-144,1,not dark,18.0,dark
+im-145,0,dark,12.0,dark
+im-146,1,dark,7.0,dark
+im-147,1,not dark,15.0,dark
+im-148,1,not dark,20.0,dark
+im-149,1,not dark,11.0,dark
+im-150,0,not dark,4.0,dark
+im-151,1,dark,5.0,not dark
+im-152,0,not dark,5.0,dark
+im-153,1,not dark,15.0,dark
+im-154,1,not dark,15.0,dark
+im-155,0,dark,11.0,dark
+im-156,1,dark,7.0,dark
+im-157,0,not dark,12.0,dark
+im-158,0,dark,12.0,dark
+im-159,1,not dark,16.0,dark
+im-160,1,not dark,11.0,dark
+im-161,0,not dark,6.0,dark
+im-162,1,not dark,17.0,dark
+im-163,1,not dark,13.0,dark
+im-164,1,not dark,20.0,dark
+im-165,0,not dark,7.0,dark
+im-166,1,dark,6.0,dark
+im-167,0,not dark,8.0,dark
+im-168,0,dark,15.0,dark
+im-169,0,not dark,5.0,dark
+im-170,1,not dark,16.0,dark
+im-171,0,dark,12.0,dark
+im-172,0,not dark,6.0,dark
+im-173,1,not dark,18.0,dark
+im-174,1,not dark,18.0,dark
+im-175,0,dark,6.0,dark
+im-176,0,not dark,3.0,dark
+im-177,1,not dark,13.0,dark
+im-178,1,not dark,6.0,dark
+im-179,0,not dark,5.0,dark
+im-180,1,not dark,23.0,dark
+im-181,0,not dark,4.0,dark
+im-182,0,not dark,5.0,dark
+im-183,0,not dark,5.0,dark
+im-184,0,dark,7.0,dark
+im-185,1,not dark,20.0,dark
+im-186,1,not dark,14.0,dark
+im-187,1,dark,25.0,dark
+im-188,0,not dark,5.0,dark
+im-189,0,not dark,6.0,dark
+im-190,1,not dark,15.0,dark
+im-191,0,not dark,11.0,dark
+im-192,0,not dark,5.0,dark
+im-193,0,dark,11.0,dark
+im-194,0,not dark,5.0,dark
+im-195,0,not dark,6.0,dark
+im-196,0,dark,11.0,dark
+im-197,1,dark,8.0,dark
+im-198,0,not dark,3.0,dark
+im-199,1,dark,8.0,not dark
+im-200,0,not dark,7.0,dark
