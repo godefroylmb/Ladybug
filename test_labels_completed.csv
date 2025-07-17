@@ -1,0 +1,51 @@
+Image_id,Label,shell_brightness,spots_number,spots_brightness
+im-001,1,dark,23.0,dark
+im-002,0,not dark,4.0,dark
+im-003,0,not dark,4.0,dark
+im-004,1,not dark,14.0,dark
+im-005,0,not dark,3.0,dark
+im-006,1,dark,22.0,dark
+im-007,1,not dark,24.0,dark
+im-008,1,dark,4.0,dark
+im-009,0,not dark,6.0,dark
+im-010,0,not dark,6.0,dark
+im-011,1,not dark,15.0,dark
+im-012,1,not dark,18.0,dark
+im-013,1,dark,18.0,dark
+im-014,1,not dark,11.0,dark
+im-015,0,dark,12.0,dark
+im-016,0,not dark,6.0,dark
+im-017,0,not dark,4.0,dark
+im-018,1,not dark,15.0,dark
+im-019,1,dark,8.0,dark
+im-020,1,not dark,0.0,not dark
+im-021,0,dark,9.0,dark
+im-022,1,dark,5.0,not dark
+im-023,1,dark,6.0,dark
+im-024,0,not dark,16.0,dark
+im-025,1,dark,7.0,dark
+im-026,0,not dark,6.0,dark
+im-027,1,dark,14.0,dark
+im-028,0,not dark,4.0,dark
+im-029,0,not dark,4.0,dark
+im-030,1,not dark,14.0,dark
+im-031,0,not dark,4.0,dark
+im-032,0,not dark,8.0,dark
+im-033,1,dark,10.0,dark
+im-034,1,dark,20.0,dark
+im-035,0,not dark,6.0,dark
+im-036,0,not dark,5.0,dark
+im-037,1,not dark,18.0,dark
+im-038,0,not dark,6.0,dark
+im-039,0,dark,11.0,dark
+im-040,0,dark,12.0,dark
+im-041,1,dark,18.0,dark
+im-042,0,not dark,5.0,dark
+im-043,0,not dark,6.0,dark
+im-044,0,dark,11.0,dark
+im-045,1,not dark,18.0,dark
+im-046,1,not dark,15.0,dark
+im-047,0,dark,13.0,dark
+im-048,0,not dark,4.0,dark
+im-049,1,dark,22.0,dark
+im-050,1,dark,5.0,not dark
